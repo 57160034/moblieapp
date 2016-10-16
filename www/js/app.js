@@ -78,14 +78,14 @@ angular.module('starter', ['ionic', 'starter.controllers'])
     //   }
     // }
   })
-   .state('home2', {
+   .state('app.home2', {
     url: '/home2',
-    //views: {
-      //'menuContent': {
+    views: {
+      'menuContent': {
         templateUrl: 'templates/home2.html'//,
-       // controller: 'PlaylistCtrl'
-      //}
-    //}
+       //controller: 'PlaylistCtrl'
+      }
+    }
   });
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('home1');
