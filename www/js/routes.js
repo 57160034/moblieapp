@@ -61,6 +61,11 @@ angular.module('app.routes', [])
         templateUrl: 'templates/home1.html'
 
     })
+    .state('home2', {
+        url: '/home2',
+        templateUrl: 'templates/home2.html'
+
+    })
 
     $urlRouterProvider.otherwise('home1')
 
