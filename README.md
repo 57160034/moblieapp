@@ -7,6 +7,7 @@ Burapha University
 - Ms.Chulaluck Watanarat    StudentID : 57160284
 - Mr.Pakapon Vichatikun     StudentID : 57160296
 - Mr.Nakarin Outtajunyagol  StudentID : 57160524
+
 #คำสั่ง git
 -git pull  = อัพเดตงานให้เป็นงานล่าสุด
 -เมื่อแก้ไขโค้ดแล้วต้องการเอาขึ้น git hub ทำตามนี้
