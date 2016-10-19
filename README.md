@@ -9,8 +9,9 @@ Burapha University
 - Mr.Nakarin Outtajunyagol  StudentID : 57160524
 
 #คำสั่ง git
--git pull  = อัพเดตงานให้เป็นงานล่าสุด
--เมื่อแก้ไขโค้ดแล้วต้องการเอาขึ้น git hub ทำตามนี้
+- git pull  = อัพเดตงานให้เป็นงานล่าสุด
+- เมื่อแก้ไขโค้ดแล้วต้องการเอาขึ้น git hub ทำตามนี้
+
 1. git pull
 2. git add .
 3. git commit -m "บอกด้วยว่าได้ทำอะไรไปบ้าง"
